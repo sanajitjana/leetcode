@@ -1,28 +1,38 @@
 import os
 from datetime import datetime
 import subprocess
+import pytz  # Requires: pip install pytz
 
 README_PATH = "README.md"
 
-# Count problems
+# Count only .java files in Easy, Medium, Hard
 def count_problems():
     count = 0
     for folder in ["Easy", "Medium", "Hard"]:
         if os.path.exists(folder):
             for file in os.listdir(folder):
-                if os.path.isfile(os.path.join(folder, file)):
+                if os.path.isfile(os.path.join(folder, file)) and file.endswith(".java"):
                     count += 1
     return count
 
-# Get last commit date
+# Get last commit date in human-readable IST format
 def last_updated():
     result = subprocess.run(
         ["git", "log", "-1", "--format=%cd", "--date=iso"],
         capture_output=True,
         text=True
     )
-    return result.stdout.strip()
+    utc_time_str = result.stdout.strip()
+    utc_time = datetime.fromisoformat(utc_time_str)
 
+    # Convert to IST
+    ist = pytz.timezone("Asia/Kolkata")
+    ist_time = utc_time.astimezone(ist)
+
+    # Return formatted date
+    return ist_time.strftime("%d %b %Y, %I:%M %p IST")
+
+# Update README.md with the latest values
 def update_readme():
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
