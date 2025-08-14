@@ -16,11 +16,22 @@ The repository is organized as follows:
 
 ```
 Leetcode-Solutions/
-├── <Problem-Category>/
-│   ├── <Problem-Name-or-Number>.<extension>
-│   └── ...
+│
 ├── README.md
-└── ...
+├── Easy/
+│   ├── 0001-two-sum.java
+│   ├── 0009-palindrome-number.java
+│   └── ...
+├── Medium/
+│   ├── 0002-add-two-numbers.java
+│   ├── 0019-remove-nth-node-from-end-of-list.java
+│   └── ...
+├── Hard/
+│   ├── 0042-trapping-rain-water.java
+│   └── ...
+└── Notes/
+    ├── patterns.md
+    └── tips.md
 ```
 
 - Solutions may be grouped by problem category (e.g., Arrays, LinkedList, DynamicProgramming, etc.) or by language (depending on your structure).
