@@ -78,9 +78,3 @@ This repository is licensed under the [MIT License](LICENSE).
 ---
 
 Happy Coding! 🚀
-
-
-🏆 Progress
-
-Problems solved: <!--PROBLEMS_COUNT-->2
-Last updated: <!--LAST_UPDATED-->14 Aug 2025, 12:03 PM IST
