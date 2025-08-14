@@ -60,8 +60,8 @@ Leetcode-Solutions/
 
 ## 🏆 Progress
 
-- Problems solved: [add your count here]
-- Last updated: [add date or automate if possible]
+- Problems solved: <!--PROBLEMS_COUNT-->
+- Last updated: <!--LAST_UPDATED-->
 ---
 
 ## ⭐️ Support
