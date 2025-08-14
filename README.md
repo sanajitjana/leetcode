@@ -60,21 +60,5 @@ Leetcode-Solutions/
 
 ## 🏆 Progress
 
-- Problems solved: 3
-- Last updated: 2025-08-14 11:28:36 +0530
----
-
-## ⭐️ Support
-
-If you find this repository helpful, please star it!  
-Your support motivates me to keep solving and sharing more problems.
-
----
-
-## 📄 License
-
-This repository is licensed under the [MIT License](LICENSE).
-
----
-
-Happy Coding! 🚀
+- Problems solved: 2
+- Last updated: 14 Aug 2025, 12:15 PM UTC+05:30
