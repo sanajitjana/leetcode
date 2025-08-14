@@ -1,37 +1,27 @@
 import os
 from datetime import datetime
-import subprocess
-from zoneinfo import ZoneInfo  # built-in since Python 3.9
+from zoneinfo import ZoneInfo  # Built-in in Python 3.9+
+import re
 
 README_PATH = "README.md"
 
-# Count only .java files in Easy, Medium, Hard
+# Count only .java files inside Easy, Medium, Hard (recursive)
 def count_problems():
     count = 0
     for folder in ["Easy", "Medium", "Hard"]:
         if os.path.exists(folder):
-            for file in os.listdir(folder):
-                if os.path.isfile(os.path.join(folder, file)) and file.endswith(".java"):
-                    count += 1
+            for root, _, files in os.walk(folder):
+                for file in files:
+                    if file.endswith(".java"):
+                        count += 1
     return count
 
-# Get last commit date in human-readable IST format
+# Get current IST time in human-readable format
 def last_updated():
-    result = subprocess.run(
-        ["git", "log", "-1", "--format=%cd", "--date=iso"],
-        capture_output=True,
-        text=True
-    )
-    utc_time_str = result.stdout.strip()
-    utc_time = datetime.fromisoformat(utc_time_str)
-
-    # Convert to IST without pytz
-    ist_time = utc_time.astimezone(ZoneInfo("Asia/Kolkata"))
-
-    # Return formatted date
+    ist_time = datetime.now(ZoneInfo("Asia/Kolkata"))
     return ist_time.strftime("%d %b %Y, %I:%M %p IST")
 
-# Update README.md with the latest values
+# Update README.md placeholders
 def update_readme():
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
@@ -39,13 +29,16 @@ def update_readme():
     problems_count = count_problems()
     updated_time = last_updated()
 
-    content = content.replace(
-        "Problems solved: <!--PROBLEMS_COUNT-->",
-        f"Problems solved: {problems_count}"
+    # Use regex to ensure replacement works even if extra spaces
+    content = re.sub(
+        r"Problems solved: <!--PROBLEMS_COUNT-->.*",
+        f"Problems solved: <!--PROBLEMS_COUNT-->{problems_count}",
+        content
     )
-    content = content.replace(
-        "Last updated: <!--LAST_UPDATED-->",
-        f"Last updated: {updated_time}"
+    content = re.sub(
+        r"Last updated: <!--LAST_UPDATED-->.*",
+        f"Last updated: <!--LAST_UPDATED-->{updated_time}",
+        content
     )
 
     with open(README_PATH, "w", encoding="utf-8") as f:
