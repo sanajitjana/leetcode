@@ -1,29 +1,35 @@
 import os
 import subprocess
 from datetime import datetime
+import re
 
 README_PATH = "README.md"
 
-# Count problems
+# Count problems (only .java files, recursively)
 def count_problems():
     count = 0
     for folder in ["Easy", "Medium", "Hard"]:
         if os.path.exists(folder):
-            for file in os.listdir(folder):
-                if os.path.isfile(os.path.join(folder, file)):
-                    count += 1
+            for root, _, files in os.walk(folder):
+                for file in files:
+                    if file.endswith(".java"):
+                        count += 1
     return count
 
-# Get last commit date (latest in repo)
+# Get last commit date of the repo
 def last_updated():
     result = subprocess.run(
         ["git", "log", "-1", "--format=%cd", "--date=iso"],
         capture_output=True,
         text=True
     )
-    # Convert to human readable format
-    dt = datetime.fromisoformat(result.stdout.strip())
-    return dt.strftime("%d %b %Y, %I:%M %p IST")
+    raw_date = result.stdout.strip()
+    try:
+        dt = datetime.fromisoformat(raw_date.replace(" ", "T", 1))
+    except ValueError:
+        # Fallback: parse with strptime
+        dt = datetime.strptime(raw_date, "%Y-%m-%d %H:%M:%S %z")
+    return dt.strftime("%d %b %Y, %I:%M %p %Z")
 
 def update_readme():
     with open(README_PATH, "r", encoding="utf-8") as f:
@@ -32,13 +38,12 @@ def update_readme():
     problems_count = count_problems()
     updated_time = last_updated()
 
-    # Replace only inside the Progress section
-    import re
+    # Regex to replace only inside the Progress section
+    new_progress = f"## 🏆 Progress\n\n- Problems solved: {problems_count}\n- Last updated: {updated_time}"
     content = re.sub(
-        r"(## 🏆 Progress\s+Problems solved:).*",
-        f"## 🏆 Progress\n\nProblems solved: {problems_count}\nLast updated: {updated_time}",
+        r"## 🏆 Progress\s+(- Problems solved: .*?\n- Last updated: .*)",
+        new_progress,
         content,
-        count=1,
         flags=re.DOTALL
     )
 
