@@ -58,6 +58,18 @@ Leetcode-Solutions/
 
 ---
 
+## ⭐️ Support
+
+If you find this repository helpful, please star it!  
+Your support motivates me to keep solving and sharing more problems.
+
+---
+
+## 📄 License
+This repository is licensed under the [MIT License](LICENSE).
+
+---
+
 ## 🏆 Progress
 
 - Problems solved: 2
