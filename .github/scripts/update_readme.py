@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 import subprocess
-import pytz  # Requires: pip install pytz
+from zoneinfo import ZoneInfo  # built-in since Python 3.9
 
 README_PATH = "README.md"
 
@@ -25,9 +25,8 @@ def last_updated():
     utc_time_str = result.stdout.strip()
     utc_time = datetime.fromisoformat(utc_time_str)
 
-    # Convert to IST
-    ist = pytz.timezone("Asia/Kolkata")
-    ist_time = utc_time.astimezone(ist)
+    # Convert to IST without pytz
+    ist_time = utc_time.astimezone(ZoneInfo("Asia/Kolkata"))
 
     # Return formatted date
     return ist_time.strftime("%d %b %Y, %I:%M %p IST")
