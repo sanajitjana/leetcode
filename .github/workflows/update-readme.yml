@@ -21,9 +21,9 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: List .java files (debug)
+      - name: Debug - List files
         run: |
-          echo "Listing solution files:"
+          echo "Listing .java files in Easy/Medium/Hard:"
           find Easy Medium Hard -type f -name '*.java' 2>/dev/null | sort || true
           echo "Total:"
           find Easy Medium Hard -type f -name '*.java' 2>/dev/null | wc -l || true
@@ -31,7 +31,7 @@ jobs:
       - name: Run update script
         run: python .github/scripts/update_readme.py
 
-      - name: Show updated README (debug)
+      - name: Debug - Show updated README
         run: cat README.md
 
       - name: Commit changes
