@@ -41,11 +41,7 @@ Leetcode-Solutions/
 
 ## 🧑‍💻 Languages Used
 
-- Python
-- C++
 - Java
-- JavaScript
-- (Add or remove languages as appropriate)
 
 ---
 
