@@ -68,5 +68,5 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## 🏆 Progress
 
-- Problems solved: 26
-- Last updated: 15 Sep 2025, 09:39 AM UTC+05:30
+- Problems solved: 27
+- Last updated: 16 Sep 2025, 10:50 AM UTC+05:30
