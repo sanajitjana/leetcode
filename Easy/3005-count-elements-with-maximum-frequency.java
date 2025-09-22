@@ -20,17 +20,18 @@ So the number of elements in the array with maximum frequency is 5.
 Constraints:
 1 <= nums.length <= 100
 1 <= nums[i] <= 100
+*/
 
-Approach:
+/* 
+Approach 1 (HashMap):
 1. Count the frequency of each element using a HashMap.
 2. Find the maximum frequency among all elements.
 3. Sum the frequencies of elements that match this maximum.
 4. Return the result.
 
-Time Complexity: O(n)   where n = length of nums
+Time Complexity: O(n)
 Space Complexity: O(k)  where k = number of distinct elements (at most 100)
 */
-
 class Solution {
     public int maxFrequencyElements(int[] nums) {
         HashMap<Integer, Integer> freq = new HashMap<>();
@@ -53,5 +54,38 @@ class Solution {
         }
 
         return ans;
+    }
+}
+
+/* 
+Approach 2 (Frequency Array):
+1. Since nums[i] <= 100, use an array of size 101 to count frequencies.
+2. Track the maximum frequency while counting.
+3. Sum the contributions of elements with maximum frequency.
+4. Return the result.
+
+Time Complexity: O(n + k)   (k = 100, treated as constant)
+Space Complexity: O(1)      (fixed array of size 101)
+*/
+class SolutionArray {
+    public int maxFrequencyElements(int[] nums) {
+        int[] freqArr = new int[101];
+        int maxFreq = 0;
+        
+        // Step 1: count frequencies and track max
+        for (int num : nums) {
+            freqArr[num]++;
+            maxFreq = Math.max(maxFreq, freqArr[num]);
+        }
+
+        // Step 2: sum up contributions of max frequency
+        int total = 0;
+        for (int freq : freqArr) {
+            if (freq == maxFreq) {
+                total += freq;
+            }
+        }
+
+        return total;
     }
 }
