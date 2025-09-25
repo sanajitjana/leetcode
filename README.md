@@ -1,4 +1,4 @@
-# Leetcode-Solutions
+# Leetcode-Journal
 
 A collection of my solutions to LeetCode problems, written in various programming languages. This repository is meant to document my learning journey, share my approaches, and help others understand different ways to solve algorithmic challenges.
 
