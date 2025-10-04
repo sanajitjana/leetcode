@@ -6,6 +6,8 @@
 
 0165: Compare Version Numbers - [`0165-compare-version-numbers/`](0165-compare-version-numbers/)
 
+0611: Valid Triangle Number - [`0611-valid-triangle-number/`](0611-valid-triangle-number/)
+
 0966: Vowel Spellchecker - [`0966-vowel-spellchecker/`](0966-vowel-spellchecker/)
 
 1518: Water Bottles - [`1518-water-bottles/`](1518-water-bottles/)
@@ -27,3 +29,7 @@
 3408: Design Task Manager - [`3408-design-task-manager/`](3408-design-task-manager/)
 
 3484: Design Spreadsheet - [`3484-design-spreadsheet/`](3484-design-spreadsheet/)
+
+3689: Maximum Total Subarray Value I - [`3689-maximum-total-subarray-value-i/`](3689-maximum-total-subarray-value-i/)
+
+3698: Split Array With Minimum Difference - [`3698-split-array-with-minimum-difference/`](3698-split-array-with-minimum-difference/)
