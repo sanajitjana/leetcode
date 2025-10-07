@@ -25,10 +25,7 @@ Leetcode-Solutions/
 ├── Medium/
 │   ├── 0002-add-two-numbers.java
 │   ├── 0019-remove-nth-node-from-end-of-list.java
-│   └── ...
-├── Hard/
-│   ├── 0042-trapping-rain-water.java
-│   └── ...
+│   ..
 └── Notes/
     ├── patterns.md
     └── tips.md
