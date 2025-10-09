@@ -6,7 +6,7 @@ A collection of my solutions to LeetCode problems, written in various programmin
 
 ## 📝 About
 
-This repository contains solutions to problems from [LeetCode](https://leetcode.com/). Solutions are organized by problem name/number and language. Each solution includes clear code and, where relevant, explanations or comments to help you understand the approach.
+This repository contains solutions to problems from Leetcode. Solutions are organized by problem name/number and language. Each solution includes clear code and, where relevant, explanations or comments to help you understand the approach.
 
 ---
 
