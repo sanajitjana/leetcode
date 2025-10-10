@@ -24,8 +24,6 @@ Leetcode-Solutions/
 │   └── ...
 ├── Medium/
 │   ├── 0002-add-two-numbers.java
-│   ├── 0019-remove-nth-node-from-end-of-list.java
-│   ..
 └── Notes/
     ├── patterns.md
     └── tips.md
