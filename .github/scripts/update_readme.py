@@ -5,15 +5,15 @@ import re
 
 README_PATH = "README.md"
 
-# Count problems (only .java files, recursively)
+# Count problems (count problem directories under p folder)
 def count_problems():
     count = 0
-    for folder in ["Easy", "Medium", "Hard"]:
-        if os.path.exists(folder):
-            for root, _, files in os.walk(folder):
-                for file in files:
-                    if file.endswith(".java"):
-                        count += 1
+    folder = "p"
+    if os.path.exists(folder):
+        for item in os.listdir(folder):
+            item_path = os.path.join(folder, item)
+            if os.path.isdir(item_path) and not item.startswith('.'):
+                count += 1
     return count
 
 # Get last commit date of the repo
