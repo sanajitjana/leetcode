@@ -6,6 +6,8 @@
 
 0165: Compare Version Numbers - [`0165-compare-version-numbers/`](0165-compare-version-numbers/)
 
+0169: Majority Element - [`0169-majority-element/`](0169-majority-element/)
+
 0611: Valid Triangle Number - [`0611-valid-triangle-number/`](0611-valid-triangle-number/)
 
 0966: Vowel Spellchecker - [`0966-vowel-spellchecker/`](0966-vowel-spellchecker/)
