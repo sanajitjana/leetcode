@@ -6,7 +6,7 @@ A collection of my solutions to LeetCode problems, written in various programmin
 
 ## 📝 About
 
-This repository contains solutions to problems from [LeetCode](https://leetcode.com/). Solutions are organized by problem name/number and language. Each solution includes clear code and, where relevant, explanations or comments to help you understand the approach.
+This repository contains solutions to problems from Leetcode. Solutions are organized by problem name/number and language. Each solution includes clear code and, where relevant, explanations or comments to help you understand the approach.
 
 ---
 
@@ -24,11 +24,6 @@ Leetcode-Solutions/
 │   └── ...
 ├── Medium/
 │   ├── 0002-add-two-numbers.java
-│   ├── 0019-remove-nth-node-from-end-of-list.java
-│   └── ...
-├── Hard/
-│   ├── 0042-trapping-rain-water.java
-│   └── ...
 └── Notes/
     ├── patterns.md
     └── tips.md
@@ -69,4 +64,4 @@ This repository is licensed under the [MIT License](LICENSE).
 ## 🏆 Progress
 
 - Problems solved: 26
-- Last updated: 04 Oct 2025, 11:27 AM UTC+05:30
+- Last updated: 10 Oct 2025, 05:59 PM UTC+05:30
