@@ -20,6 +20,8 @@
 
 1733: Minimum Number of People to Teach - [`1733-minimum-number-of-people-to-teach/`](1733-minimum-number-of-people-to-teach/)
 
+2300: Successful Pairs of Spells and Potions - [`2300-successful-pairs-of-spells-and-potions/`](2300-successful-pairs-of-spells-and-potions/)
+
 2348: Number of Zero Filled Subarrays - [`2348-number-of-zero-filled-subarrays/`](2348-number-of-zero-filled-subarrays/)
 
 2353: Design a Food Rating System - [`2353-design-a-food-rating-system/`](2353-design-a-food-rating-system/)
