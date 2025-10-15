@@ -10,6 +10,38 @@
 
 0181: Employees Earning More Than Their Managers - [`0181-employees-earning-more-than-their-managers/`](0181-employees-earning-more-than-their-managers/)
 
+0231: Power of Two - [`0231-power-of-two/`](0231-power-of-two/)
+
+0342: Power of Four - [`0342-power-of-four/`](0342-power-of-four/)
+
+0812: Largest Triangle Area - [`0812-largest-triangle-area/`](0812-largest-triangle-area/)
+
+1323: Maximum 69 Number - [`1323-maximum-69-number/`](1323-maximum-69-number/)
+
+2264: Largest 3-Same-Digit Number in String - [`2264-largest-3-same-digit-number-in-string/`](2264-largest-3-same-digit-number-in-string/)
+
+0830: Positions of Large Groups - [`0830-positions-of-large-groups/`](0830-positions-of-large-groups/)
+
+0976: Largest Perimeter Triangle - [`0976-largest-perimeter-triangle/`](0976-largest-perimeter-triangle/)
+
+1304: Find N Unique Integers Sum up to Zero - [`1304-find-n-unique-integers-sum-up-to-zero/`](1304-find-n-unique-integers-sum-up-to-zero/)
+
+1796: Second Largest Digit in a String - [`1796-second-largest-digit-in-a-string/`](1796-second-largest-digit-in-a-string/)
+
+2016: Maximum Difference Between Increasing Elements - [`2016-maximum-difference-between-increasing-elements/`](2016-maximum-difference-between-increasing-elements/)
+
+2942: Find Words Containing Character - [`2942-find-words-containing-character/`](2942-find-words-containing-character/)
+
+3024: Type of Triangle - [`3024-type-of-triangle/`](3024-type-of-triangle/)
+
+3688: Bitwise OR of Even Numbers in an Array - [`3688-bitwise-or-of-even-numbers-in-an-array/`](3688-bitwise-or-of-even-numbers-in-an-array/)
+
+3697: Compute Decimal Representation - [`3697-compute-decimal-representation/`](3697-compute-decimal-representation/)
+
+3005: Count Elements With Maximum Frequency - [`3005-count-elements-with-maximum-frequency/`](3005-count-elements-with-maximum-frequency/)
+
+3069: Distribute Elements Into Two Arrays I - [`3069-distribute-elements-into-two-arrays-i/`](3069-distribute-elements-into-two-arrays-i/)
+
 0611: Valid Triangle Number - [`0611-valid-triangle-number/`](0611-valid-triangle-number/)
 
 0966: Vowel Spellchecker - [`0966-vowel-spellchecker/`](0966-vowel-spellchecker/)
