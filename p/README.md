@@ -4,6 +4,8 @@
 
 0073: Set Matrix Zeroes - [`0073-set-matrix-zeroes/`](0073-set-matrix-zeroes/)
 
+0121: Best Time to Buy and Sell Stock - [`0121-best-time-to-buy-and-sell-stock/`](0121-best-time-to-buy-and-sell-stock/)
+
 0165: Compare Version Numbers - [`0165-compare-version-numbers/`](0165-compare-version-numbers/)
 
 0169: Majority Element - [`0169-majority-element/`](0169-majority-element/)
