@@ -28,6 +28,8 @@
 
 1304: Find N Unique Integers Sum up to Zero - [`1304-find-n-unique-integers-sum-up-to-zero/`](1304-find-n-unique-integers-sum-up-to-zero/)
 
+1317: Convert Integer to the Sum of Two No-Zero Integers - [`1317-convert-integer-to-the-sum-of-two-no-zero-integers/`](1317-convert-integer-to-the-sum-of-two-no-zero-integers/)
+
 1323: Maximum 69 Number - [`1323-maximum-69-number/`](1323-maximum-69-number/)
 
 1518: Water Bottles - [`1518-water-bottles/`](1518-water-bottles/)
@@ -37,6 +39,14 @@
 1733: Minimum Number of People to Teach - [`1733-minimum-number-of-people-to-teach/`](1733-minimum-number-of-people-to-teach/)
 
 1796: Second Largest Digit in a String - [`1796-second-largest-digit-in-a-string/`](1796-second-largest-digit-in-a-string/)
+
+1935: Maximum Number of Words You Can Type - [`1935-maximum-number-of-words-you-can-type/`](1935-maximum-number-of-words-you-can-type/)
+
+1995: Count Special Quadruplets - [`1995-count-special-quadruplets/`](1995-count-special-quadruplets/)
+
+2138: Divide a String Into Groups of Size k - [`2138-divide-a-string-into-groups-of-size-k/`](2138-divide-a-string-into-groups-of-size-k/)
+
+2299: Strong Password Checker II - [`2299-strong-password-checker-ii/`](2299-strong-password-checker-ii/)
 
 2016: Maximum Difference Between Increasing Elements - [`2016-maximum-difference-between-increasing-elements/`](2016-maximum-difference-between-increasing-elements/)
 
