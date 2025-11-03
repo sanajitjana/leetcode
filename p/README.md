@@ -48,6 +48,8 @@
 
 2299: Strong Password Checker II - [`2299-strong-password-checker-ii/`](2299-strong-password-checker-ii/)
 
+3000: Maximum Area of Longest Diagonal Rectangle - [`3000-maximum-area-of-longest-diagonal-rectangle/`](3000-maximum-area-of-longest-diagonal-rectangle/)
+
 2016: Maximum Difference Between Increasing Elements - [`2016-maximum-difference-between-increasing-elements/`](2016-maximum-difference-between-increasing-elements/)
 
 2264: Largest 3-Same-Digit Number in String - [`2264-largest-3-same-digit-number-in-string/`](2264-largest-3-same-digit-number-in-string/)
@@ -77,6 +79,10 @@
 3408: Design Task Manager - [`3408-design-task-manager/`](3408-design-task-manager/)
 
 3484: Design Spreadsheet - [`3484-design-spreadsheet/`](3484-design-spreadsheet/)
+
+3516: Find Closest Person - [`3516-find-closest-person/`](3516-find-closest-person/)
+
+3541: Find Most Frequent Vowel and Consonant - [`3541-find-most-frequent-vowel-and-consonant/`](3541-find-most-frequent-vowel-and-consonant/)
 
 3688: Bitwise OR of Even Numbers in an Array - [`3688-bitwise-or-of-even-numbers-in-an-array/`](3688-bitwise-or-of-even-numbers-in-an-array/)
 

@@ -1,6 +1,6 @@
 > **📁 [View All Problems](p/README.md)** - Detailed problem documentation and solutions
 
-A collection of my solutions to LeetCode problems, written in various programming languages. This repository is meant to document my learning journey, share my approaches, and help others understand different ways to solve algorithmic challenges.
+A collection of my solutions to LeetCode problems, written in JAVA programming languages. This repository is meant to document my learning journey, share my approaches, and help others understand different ways to solve algorithmic challenges.
 
 ---
 
@@ -18,19 +18,20 @@ The repository is organized as follows:
 Leetcode-Solutions/
 │
 ├── README.md
-├── Easy/
-│   ├── 0001-two-sum.java
-│   ├── 0009-palindrome-number.java
-│   └── ...
-├── Medium/
-│   ├── 0002-add-two-numbers.java
-└── Notes/
-    ├── patterns.md
-    └── tips.md
+├── .github/
+├── p/
+│   ├── README.md
+│   ├── 0001-two-sum/
+│   │   └── README.md
+│   ├── 0036-valid-sudoku/
+│   │   └── README.md
+│   └── ... (additional problem directories, each containing README.md and solution files)
 ```
 
-- Solutions may be grouped by problem category (e.g., Arrays, LinkedList, DynamicProgramming, etc.) or by language (depending on your structure).
-- File names usually include the problem name or number.
+- Solutions are organized under the `p/` directory, with each problem in its own subdirectory named by problem number and title.
+- Each problem directory contains a `README.md` file with the problem description, solution code, and explanations.
+- Some directories may include additional solution files (e.g., `Solution.java`).
+- The `p/README.md` provides a comprehensive list of all solved problems with links to their directories.
 
 ---
 
