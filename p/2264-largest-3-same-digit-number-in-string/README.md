@@ -1,4 +1,4 @@
-# [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)
+# Largest 3-Same-Digit Number in String - [Leetcode Link](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)
 
 ## Question Description
 You are given a string `num` representing a large integer. A good integer is one that has an even number of digits and the number of 3-same-digit numbers in it is maximized.

@@ -1,4 +1,4 @@
-# [1518. Water Bottles](https://leetcode.com/problems/water-bottles/?envType=daily-question&envId=2025-10-02)
+# 1518. Water Bottles - [Leetcode Link](https://leetcode.com/problems/water-bottles/?envType=daily-question&envId=2025-10-02)
 
 ## Question Description
 There are numBottles water bottles that are initially full of water.  
@@ -66,3 +66,4 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(numBottles) in the worst case, as we simulate exchanges until bottles run out.  
 - **Space Complexity:** O(1), using only a few variables.  
+

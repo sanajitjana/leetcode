@@ -1,4 +1,4 @@
-# [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters/)
+# Majority Frequency Characters - [Leetcode Link](https://leetcode.com/problems/majority-frequency-characters/)
 
 ## Question Description
 You are given a string s consisting of lowercase English letters. The frequency group for a value k is the set of characters that appear exactly k times in s. The majority frequency group is the group that contains the largest number of distinct characters. If two or more groups tie for the largest size, choose the group with the larger frequency k. Return a string containing all characters in the majority frequency group, in any order.

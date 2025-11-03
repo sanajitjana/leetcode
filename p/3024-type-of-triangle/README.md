@@ -1,4 +1,4 @@
-# [Type of Triangle](https://leetcode.com/problems/type-of-triangle/)
+# Type of Triangle - [Leetcode Link](https://leetcode.com/problems/type-of-triangle/)
 
 ## Question Description
 You are given a **0-indexed** integer array `nums` of size `3` representing the side lengths of a triangle.

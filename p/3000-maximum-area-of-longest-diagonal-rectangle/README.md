@@ -1,4 +1,4 @@
-# [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/area-of-maximum-diagonal/)
+# Maximum Area of Longest Diagonal Rectangle - [Leetcode Link](https://leetcode.com/problems/area-of-maximum-diagonal/)
 
 ## Question Description
 Given a 2D array dimensions where dimensions[i] = [length, width] represents the dimensions of the i-th rectangle. Return the area of the rectangle having the longest diagonal. If there are multiple rectangles with the longest diagonal, return the one with the largest area.

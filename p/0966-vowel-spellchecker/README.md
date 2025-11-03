@@ -1,4 +1,4 @@
-# [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)
+# Vowel Spellchecker - [Leetcode Link](https://leetcode.com/problems/vowel-spellchecker/)
 
 ## Question Description
 Given a wordlist and a list of queries, return a list of words from wordlist for each query based on the following rules in order of priority:

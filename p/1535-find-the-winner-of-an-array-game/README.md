@@ -1,4 +1,4 @@
-# [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/)
+# Find the Winner of an Array Game - [Leetcode Link](https://leetcode.com/problems/find-the-winner-of-an-array-game/)
 
 ## Question Description
 Given an integer array arr of distinct integers and an integer k.

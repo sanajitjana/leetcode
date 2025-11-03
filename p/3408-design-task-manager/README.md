@@ -1,4 +1,4 @@
-# [Design Task Manager](https://leetcode.com/problems/design-task-manager/)
+# Design Task Manager - [Leetcode Link](https://leetcode.com/problems/design-task-manager/)
 
 ## Question Description
 You are asked to design a task manager that supports:

@@ -1,4 +1,4 @@
-# [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
+# Successful Pairs of Spells and Potions - [Leetcode Link](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 
 ## Question Description
 You are given two positive integer arrays `spells` and `potions`, of lengths `n` and `m` respectively, where `spells[i]` represents the strength of the `ith` spell and `potions[j]` represents the strength of the `jth` potion.
