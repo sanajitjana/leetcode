@@ -1,4 +1,4 @@
-# Vowels Game in a String - [Leetcode Link](https://leetcode.com/problems/vowels-game-in-a-string/)
+# Vowels Game in a String - [Link](https://leetcode.com/problems/vowels-game-in-a-string/)
 
 ## Question Description
 Alice and Bob are playing a game on a string s.

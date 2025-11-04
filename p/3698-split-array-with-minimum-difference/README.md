@@ -1,4 +1,4 @@
-# Split Array With Minimum Difference - [Leetcode Link](https://leetcode.com/problems/split-array-with-minimum-difference/)
+# Split Array With Minimum Difference - [Link](https://leetcode.com/problems/split-array-with-minimum-difference/)
 
 ## Question Description
 You are given a 0-indexed integer array nums of length n.

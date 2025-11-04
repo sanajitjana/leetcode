@@ -1,4 +1,4 @@
-# Find N Unique Integers Sum up to Zero - [Leetcode Link](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
+# Find N Unique Integers Sum up to Zero - [Link](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 
 ## Question Description
 Given an integer `n`, return **any array** containing `n` **unique** integers such that they add up to `0`.

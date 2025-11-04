@@ -1,4 +1,4 @@
-# Largest Triangle Area - [Leetcode Link](https://leetcode.com/problems/largest-triangle-area/)
+# Largest Triangle Area - [Link](https://leetcode.com/problems/largest-triangle-area/)
 
 ## Question Description
 You are given an array of points on the XY-plane where `points[i] = [xi, yi]`. Each point is represented as an integer coordinate `[xi, yi]`.

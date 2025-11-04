@@ -1,4 +1,4 @@
-# Alice and Bob Playing Flower Game - [Leetcode Link](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)
+# Alice and Bob Playing Flower Game - [Link](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)
 
 ## Question Description
 Alice and Bob have flowers in a garden. Alice has n flowers and Bob has m flowers. They play a game where in each round, they both pick one flower each. If the sum of the number of petals of their flowers is odd, Alice wins. Otherwise, Bob wins.

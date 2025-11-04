@@ -1,4 +1,4 @@
-# Bitwise OR of Even Numbers in an Array - [Leetcode Link](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/)
+# Bitwise OR of Even Numbers in an Array - [Link](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/)
 
 ## Question Description
 You are given an integer array `nums`. Return the **bitwise OR** of all **even numbers** in the array.

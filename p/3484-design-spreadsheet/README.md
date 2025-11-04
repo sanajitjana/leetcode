@@ -1,4 +1,4 @@
-# Design Spreadsheet - [Leetcode Link](https://leetcode.com/problems/design-spreadsheet/)
+# Design Spreadsheet - [Link](https://leetcode.com/problems/design-spreadsheet/)
 
 ## Question Description
 Implement a simple spreadsheet where:

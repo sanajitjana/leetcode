@@ -1,4 +1,4 @@
-# Maximum Number of Words You Can Type - [Leetcode Link](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)
+# Maximum Number of Words You Can Type - [Link](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)
 
 ## Question Description
 There is a string `text` consisting of words separated by a single space, and a string `brokenLetters` containing unique broken keyboard letters. A word can be typed if none of its letters are in `brokenLetters`. Return the number of words in `text` that can be typed.
