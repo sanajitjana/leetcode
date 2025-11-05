@@ -18,7 +18,7 @@ The repository is organized as follows:
 Leetcode-Solutions/
 │
 ├── README.md
-├── .github/
+├── LICENSE
 ├── p/
 │   ├── README.md
 │   ├── 0001-two-sum/
