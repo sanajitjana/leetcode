@@ -1,4 +1,4 @@
-# Find Closest Person - [Link](https://leetcode.com/problems/find-closest-person/)
+# Find Closest Person - <a href="https://leetcode.com/problems/find-closest-person/" target="_blank">Link</a>
 
 ## Question Description
 Given three integers x, y, and z, return:

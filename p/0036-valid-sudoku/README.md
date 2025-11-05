@@ -1,4 +1,4 @@
-# Valid Sudoku - [Link](https://leetcode.com/problems/valid-sudoku/)
+# Valid Sudoku - <a href="https://leetcode.com/problems/valid-sudoku/" target="_blank">Link</a>
 
 ## Question Description
 Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated according to these rules:

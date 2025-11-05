@@ -1,4 +1,4 @@
-# Divide a String Into Groups of Size k - [Link](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/)
+# Divide a String Into Groups of Size k - <a href="https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/" target="_blank">Link</a>
 
 ## Question Description
 Given a string s, divide the string into groups of size k (except for the last group, which may be shorter). If the last group is shorter than k, fill it with the character fill.

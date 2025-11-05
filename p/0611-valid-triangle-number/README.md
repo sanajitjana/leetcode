@@ -1,4 +1,4 @@
-# Valid Triangle Number - [Link](https://leetcode.com/problems/valid-triangle-number/)
+# Valid Triangle Number - <a href="https://leetcode.com/problems/valid-triangle-number/" target="_blank">Link</a>
 
 ## Question Description
 Given an integer array nums, return the number of triplets chosen from the array that can make triangles if we take them as side lengths of a triangle.

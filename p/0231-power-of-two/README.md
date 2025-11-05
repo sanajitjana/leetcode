@@ -1,4 +1,4 @@
-# Power of Two - [Link](https://leetcode.com/problems/power-of-two/)
+# Power of Two - <a href="https://leetcode.com/problems/power-of-two/" target="_blank">Link</a>
 
 ## Question Description
 Given an integer `n`, return `true` if it is a power of two. Otherwise, return `false`.

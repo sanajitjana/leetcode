@@ -1,4 +1,4 @@
-# Design a Food Rating System - [Link](https://leetcode.com/problems/design-a-food-rating-system/)
+# Design a Food Rating System - <a href="https://leetcode.com/problems/design-a-food-rating-system/" target="_blank">Link</a>
 
 ## Question Description
 Design a food rating system that can do the following:

@@ -1,4 +1,4 @@
-# Largest Perimeter Triangle - [Link](https://leetcode.com/problems/largest-perimeter-triangle/)
+# Largest Perimeter Triangle - <a href="https://leetcode.com/problems/largest-perimeter-triangle/" target="_blank">Link</a>
 
 ## Question Description
 Given an array `nums` of non-negative integers, return the **largest perimeter** of a triangle with **non-zero area** that can be formed from three of these lengths.

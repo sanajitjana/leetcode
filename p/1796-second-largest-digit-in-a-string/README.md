@@ -1,4 +1,4 @@
-# Second Largest Digit in a String - [Link](https://leetcode.com/problems/second-largest-digit-in-a-string/)
+# Second Largest Digit in a String - <a href="https://leetcode.com/problems/second-largest-digit-in-a-string/" target="_blank">Link</a>
 
 ## Question Description
 Given an alphanumeric string `s`, return the **second largest** numerical digit that appears in `s`, or **-1** if it does not exist.

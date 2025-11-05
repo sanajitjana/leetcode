@@ -1,4 +1,4 @@
-# Compare Version Numbers - [Link](https://leetcode.com/problems/compare-version-numbers/)
+# Compare Version Numbers - <a href="https://leetcode.com/problems/compare-version-numbers/" target="_blank">Link</a>
 
 ## Question Description
 Given two version strings, version1 and version2, compare them. A version string consists of revisions separated by dots '.'. Each revision is an integer ignoring leading zeros.

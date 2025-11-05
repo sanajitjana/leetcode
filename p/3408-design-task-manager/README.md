@@ -1,4 +1,4 @@
-# Design Task Manager - [Link](https://leetcode.com/problems/design-task-manager/)
+# Design Task Manager - <a href="https://leetcode.com/problems/design-task-manager/" target="_blank">Link</a>
 
 ## Question Description
 You are asked to design a task manager that supports:

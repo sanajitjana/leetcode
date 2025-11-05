@@ -1,4 +1,4 @@
-# Find Words Containing Character - [Link](https://leetcode.com/problems/find-words-containing-character/)
+# Find Words Containing Character - <a href="https://leetcode.com/problems/find-words-containing-character/" target="_blank">Link</a>
 
 ## Question Description
 You are given a **0-indexed** array of strings `words` and a character `x`.

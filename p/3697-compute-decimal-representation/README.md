@@ -1,4 +1,4 @@
-# Compute Decimal Representation - [Link](https://leetcode.com/problems/compute-decimal-representation/)
+# Compute Decimal Representation - <a href="https://leetcode.com/problems/compute-decimal-representation/" target="_blank">Link</a>
 
 ## Question Description
 You are given an integer `n`. Your task is to break it down into its decimal components and return them as an array.

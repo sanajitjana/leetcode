@@ -1,4 +1,4 @@
-# Minimum Number of People to Teach - [Link](https://leetcode.com/problems/minimum-number-of-people-to-teach/)
+# Minimum Number of People to Teach - <a href="https://leetcode.com/problems/minimum-number-of-people-to-teach/" target="_blank">Link</a>
 
 ## Question Description
 You are given n languages numbered from 1 to n, and for each user, a list of languages they know. Some pairs of users are friends but might not share a common language. You can teach one language to some users so that all friends can communicate. Return the minimum number of users you need to teach.

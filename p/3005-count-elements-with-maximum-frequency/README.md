@@ -1,4 +1,4 @@
-# Count Elements With Maximum Frequency - [Link](https://leetcode.com/problems/count-elements-with-maximum-frequency/)
+# Count Elements With Maximum Frequency - <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/" target="_blank">Link</a>
 
 ## Question Description
 You are given an array `nums` consisting of positive integers.

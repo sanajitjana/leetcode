@@ -1,4 +1,4 @@
-# Maximum 69 Number - [Link](https://leetcode.com/problems/maximum-69-number/)
+# Maximum 69 Number - <a href="https://leetcode.com/problems/maximum-69-number/" target="_blank">Link</a>
 
 ## Question Description
 You are given a positive integer `num` consisting only of digits 6 and 9.

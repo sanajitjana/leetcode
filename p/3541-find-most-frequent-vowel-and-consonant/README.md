@@ -1,4 +1,4 @@
-# Find Most Frequent Vowel and Consonant - [Link](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/)
+# Find Most Frequent Vowel and Consonant - <a href="https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/" target="_blank">Link</a>
 
 ## Question Description
 Given a string, count the frequencies of vowels and consonants. Find the maximum frequency among vowels and the maximum frequency among consonants. Return the sum of these two maximum frequencies.

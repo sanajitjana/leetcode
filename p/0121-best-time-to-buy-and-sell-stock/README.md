@@ -1,4 +1,4 @@
-# Best Time to Buy and Sell Stock - [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+# Best Time to Buy and Sell Stock - <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank">Link</a>
 
 ## Question Description
 You are given an array prices where prices[i] is the price of a given stock on the ith day.

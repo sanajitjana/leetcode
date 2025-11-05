@@ -1,4 +1,4 @@
-# Design Spreadsheet - [Link](https://leetcode.com/problems/design-spreadsheet/)
+# Design Spreadsheet - <a href="https://leetcode.com/problems/design-spreadsheet/" target="_blank">Link</a>
 
 ## Question Description
 Implement a simple spreadsheet where:

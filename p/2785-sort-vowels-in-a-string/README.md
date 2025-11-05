@@ -1,4 +1,4 @@
-# Sort Vowels in a String - [Link](https://leetcode.com/problems/sort-vowels-in-a-string/)
+# Sort Vowels in a String - <a href="https://leetcode.com/problems/sort-vowels-in-a-string/" target="_blank">Link</a>
 
 ## Question Description
 Given a string s, sort only the vowels in ascending order and keep other characters in place.

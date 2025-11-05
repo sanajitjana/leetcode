@@ -1,4 +1,4 @@
-# Employees Earning More Than Their Managers - [Link](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
+# Employees Earning More Than Their Managers - <a href="https://leetcode.com/problems/employees-earning-more-than-their-managers/" target="_blank">Link</a>
 
 ## Question Description
 The Employee table holds all employees including their managers. Every employee has an Id, and there is also a column for the manager Id. Return the list of employees who earn more than their managers.

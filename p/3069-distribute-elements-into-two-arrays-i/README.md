@@ -1,4 +1,4 @@
-# Distribute Elements Into Two Arrays I - [Link](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/)
+# Distribute Elements Into Two Arrays I - <a href="https://leetcode.com/problems/distribute-elements-into-two-arrays-i/" target="_blank">Link</a>
 
 ## Question Description
 You are given an integer array `nums`.

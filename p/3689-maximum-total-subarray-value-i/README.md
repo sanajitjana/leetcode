@@ -1,4 +1,4 @@
-# Maximum Total Subarray Value I - [Link](https://leetcode.com/problems/maximize-subarray-sum/)
+# Maximum Total Subarray Value I - <a href="https://leetcode.com/problems/maximize-subarray-sum/" target="_blank">Link</a>
 
 ## Question Description
 You are given an integer array nums of length n and an integer k.

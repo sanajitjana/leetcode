@@ -1,4 +1,4 @@
-# 3289. The Two Sneaky Numbers of Digitville - [Link](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/)
+# 3289. The Two Sneaky Numbers of Digitville - <a href="https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/" target="_blank">Link</a>
 
 ## Question Description
 In the town of Digitville, there was a list of numbers called nums containing integers from 0 to n - 1. Each number was supposed to appear exactly once in the list, however, two mischievous numbers sneaked in an additional time, making the list longer than usual.

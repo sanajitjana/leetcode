@@ -1,4 +1,4 @@
-# Number of Zero-Filled Subarrays - [Link](https://leetcode.com/problems/number-of-zero-filled-subarrays/)
+# Number of Zero-Filled Subarrays - <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/" target="_blank">Link</a>
 
 ## Question Description
 Given an integer array nums, return the number of subarrays filled with 0.

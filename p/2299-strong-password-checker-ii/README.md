@@ -1,4 +1,4 @@
-# Strong Password Checker II - [Link](https://leetcode.com/problems/strong-password-checker-ii/)
+# Strong Password Checker II - <a href="https://leetcode.com/problems/strong-password-checker-ii/" target="_blank">Link</a>
 
 ## Question Description
 A password is said to be strong if:

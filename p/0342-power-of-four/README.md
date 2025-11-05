@@ -1,4 +1,4 @@
-# Power of Four - [Link](https://leetcode.com/problems/power-of-four/)
+# Power of Four - <a href="https://leetcode.com/problems/power-of-four/" target="_blank">Link</a>
 
 ## Question Description
 Given an integer `n`, return `true` if it is a power of four. Otherwise, return `false`.

@@ -1,4 +1,4 @@
-# Positions of Large Groups - [Link](https://leetcode.com/problems/positions-of-large-groups/)
+# Positions of Large Groups - <a href="https://leetcode.com/problems/positions-of-large-groups/" target="_blank">Link</a>
 
 ## Question Description
 In a string `s` of lowercase letters, a **group** is a consecutive run of the same character. A **large group** is defined as a group that has length >= 3.

@@ -1,4 +1,4 @@
-# Maximum Difference Between Increasing Elements - [Link](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)
+# Maximum Difference Between Increasing Elements - <a href="https://leetcode.com/problems/maximum-difference-between-increasing-elements/" target="_blank">Link</a>
 
 ## Question Description
 Given a **0-indexed** integer array `nums` of size `n`, find the **maximum difference** between any two **increasing elements** `nums[j] - nums[i]` where `i < j` and `nums[i] < nums[j]`.

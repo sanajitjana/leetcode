@@ -1,4 +1,4 @@
-# Convert Integer to the Sum of Two No-Zero Integers - [Link](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)
+# Convert Integer to the Sum of Two No-Zero Integers - <a href="https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/" target="_blank">Link</a>
 
 ## Question Description
 Given an integer n, return two integers a and b such that a + b == n and neither a nor b contains the digit zero in their decimal representation. You can return any valid pair [a, b].
