@@ -1,5 +1,7 @@
 0001: Two Sum - [`0001-two-sum/`](0001-two-sum/)
 
+0013: Roman to Integer - [`0013-roman-to-integer/`](0013-roman-to-integer/)
+
 0036: Valid Sudoku - [`0036-valid-sudoku/`](0036-valid-sudoku/)
 
 0073: Set Matrix Zeroes - [`0073-set-matrix-zeroes/`](0073-set-matrix-zeroes/)
