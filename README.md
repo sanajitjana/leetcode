@@ -59,10 +59,3 @@ Your support motivates me to keep solving and sharing more problems.
 
 ## 📄 License
 This repository is licensed under the [MIT License](LICENSE).
-
----
-
-## 🏆 Progress
-
-- Problems solved: 44
-- Last updated: 02 Nov 2025, 06:52 PM UTC+05:30
