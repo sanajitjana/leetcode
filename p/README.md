@@ -48,6 +48,8 @@
 
 2138: Divide a String Into Groups of Size k - [`2138-divide-a-string-into-groups-of-size-k/`](2138-divide-a-string-into-groups-of-size-k/)
 
+2154: Keep Multiplying Found Values by Two - [`2154-keep-multiplying-found-values-by-two/`](2154-keep-multiplying-found-values-by-two/)
+
 2299: Strong Password Checker II - [`2299-strong-password-checker-ii/`](2299-strong-password-checker-ii/)
 
 3000: Maximum Area of Longest Diagonal Rectangle - [`3000-maximum-area-of-longest-diagonal-rectangle/`](3000-maximum-area-of-longest-diagonal-rectangle/)
