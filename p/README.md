@@ -42,6 +42,8 @@
 
 1796: Second Largest Digit in a String - [`1796-second-largest-digit-in-a-string/`](1796-second-largest-digit-in-a-string/)
 
+1929: Concatenation of Array - [`1929-concatenation-of-array/`](1929-concatenation-of-array/)
+
 1935: Maximum Number of Words You Can Type - [`1935-maximum-number-of-words-you-can-type/`](1935-maximum-number-of-words-you-can-type/)
 
 1995: Count Special Quadruplets - [`1995-count-special-quadruplets/`](1995-count-special-quadruplets/)
