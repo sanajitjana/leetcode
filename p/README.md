@@ -78,6 +78,8 @@
 
 3069: Distribute Elements Into Two Arrays I - [`3069-distribute-elements-into-two-arrays-i/`](3069-distribute-elements-into-two-arrays-i/)
 
+3190: Find Minimum Operations to Make All Elements Divisible by Three - [`3190-find-minimum-operations-to-make-all-elements-divisible-by-three/`](3190-find-minimum-operations-to-make-all-elements-divisible-by-three/)
+
 3227: Vowels Game in a String - [`3227-vowels-game-in-a-string/`](3227-vowels-game-in-a-string/)
 
 3289: The Two Sneaky Numbers of Digitville - [`3289-the-two-sneaky-numbers-of-digitville/`](3289-the-two-sneaky-numbers-of-digitville/)
