@@ -1,4 +1,4 @@
-# 1518. Water Bottles - <a href="https://leetcode.com/problems/water-bottles/?envType=daily-question&envId=2025-10-02" target="_blank">Link</a>
+# 1518. Water Bottles - <a href="https://leetcode.com/problems" target="_blank">Link</a>
 
 ## Question Description
 There are numBottles water bottles that are initially full of water.  

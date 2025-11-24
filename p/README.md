@@ -34,6 +34,8 @@
 
 1323: Maximum 69 Number - [`1323-maximum-69-number/`](1323-maximum-69-number/)
 
+1470: Shuffle the Array - [`1470-shuffle-the-array/`](1470-shuffle-the-array/)
+
 1518: Water Bottles - [`1518-water-bottles/`](1518-water-bottles/)
 
 1535: Find the Winner of an Array Game - [`1535-find-the-winner-of-an-array-game/`](1535-find-the-winner-of-an-array-game/)
