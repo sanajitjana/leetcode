@@ -18,6 +18,8 @@
 
 0342: Power of Four - [`0342-power-of-four/`](0342-power-of-four/)
 
+0485: Max Consecutive Ones - [`0485-max-consecutive-ones/`](0485-max-consecutive-ones/)
+
 0611: Valid Triangle Number - [`0611-valid-triangle-number/`](0611-valid-triangle-number/)
 
 0812: Largest Triangle Area - [`0812-largest-triangle-area/`](0812-largest-triangle-area/)
