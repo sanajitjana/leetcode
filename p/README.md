@@ -22,6 +22,8 @@
 
 0611: Valid Triangle Number - [`0611-valid-triangle-number/`](0611-valid-triangle-number/)
 
+0645: Set Mismatch - [`0645-set-mismatch/`](0645-set-mismatch/)
+
 0812: Largest Triangle Area - [`0812-largest-triangle-area/`](0812-largest-triangle-area/)
 
 0830: Positions of Large Groups - [`0830-positions-of-large-groups/`](0830-positions-of-large-groups/)
