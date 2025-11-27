@@ -38,6 +38,8 @@
 
 1323: Maximum 69 Number - [`1323-maximum-69-number/`](1323-maximum-69-number/)
 
+1365: How Many Numbers Are Smaller Than the Current Number - [`1365-how-many-numbers-are-smaller-than-the-current-number/`](1365-how-many-numbers-are-smaller-than-the-current-number/)
+
 1470: Shuffle the Array - [`1470-shuffle-the-array/`](1470-shuffle-the-array/)
 
 1518: Water Bottles - [`1518-water-bottles/`](1518-water-bottles/)
