@@ -42,6 +42,8 @@
 
 1365: How Many Numbers Are Smaller Than the Current Number - [`1365-how-many-numbers-are-smaller-than-the-current-number/`](1365-how-many-numbers-are-smaller-than-the-current-number/)
 
+1441: Build an Array With Stack Operations - [`1441-build-an-array-with-stack-operations/`](1441-build-an-array-with-stack-operations/)
+
 1470: Shuffle the Array - [`1470-shuffle-the-array/`](1470-shuffle-the-array/)
 
 1518: Water Bottles - [`1518-water-bottles/`](1518-water-bottles/)
