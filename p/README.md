@@ -64,6 +64,8 @@
 
 2154: Keep Multiplying Found Values by Two - [`2154-keep-multiplying-found-values-by-two/`](2154-keep-multiplying-found-values-by-two/)
 
+2211: Count Collisions on a Road - [`2211-count-collisions-on-a-road/`](2211-count-collisions-on-a-road/)
+
 2299: Strong Password Checker II - [`2299-strong-password-checker-ii/`](2299-strong-password-checker-ii/)
 
 3000: Maximum Area of Longest Diagonal Rectangle - [`3000-maximum-area-of-longest-diagonal-rectangle/`](3000-maximum-area-of-longest-diagonal-rectangle/)
