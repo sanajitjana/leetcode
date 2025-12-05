@@ -100,6 +100,8 @@
 
 3408: Design Task Manager - [`3408-design-task-manager/`](3408-design-task-manager/)
 
+3432: Count Partitions with Even Sum Difference - [`3432-count-partitions-with-even-sum-difference/`](3432-count-partitions-with-even-sum-difference/)
+
 3484: Design Spreadsheet - [`3484-design-spreadsheet/`](3484-design-spreadsheet/)
 
 3516: Find Closest Person - [`3516-find-closest-person/`](3516-find-closest-person/)
