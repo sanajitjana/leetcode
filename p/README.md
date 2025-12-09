@@ -112,6 +112,8 @@
 
 3541: Find Most Frequent Vowel and Consonant - [`3541-find-most-frequent-vowel-and-consonant/`](3541-find-most-frequent-vowel-and-consonant/)
 
+3583: Count Special Triplets - [`3583-count-special-triplets/`](3583-count-special-triplets/)
+
 3688: Bitwise OR of Even Numbers in an Array - [`3688-bitwise-or-of-even-numbers-in-an-array/`](3688-bitwise-or-of-even-numbers-in-an-array/)
 
 3689: Maximum Total Subarray Value I - [`3689-maximum-total-subarray-value-i/`](3689-maximum-total-subarray-value-i/)
