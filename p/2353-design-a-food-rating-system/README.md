@@ -119,3 +119,5 @@ public class FoodRatings {
   - changeRating: O(log F) where F is number of foods in the cuisine
   - highestRated: O(1)
 - **Space Complexity:** O(N) where N is number of foods
+  
+[Back to All Problems](../README.md) 

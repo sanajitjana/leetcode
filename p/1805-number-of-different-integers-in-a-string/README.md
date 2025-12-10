@@ -95,4 +95,5 @@ class Solution {
 
 ---
 
-[Back to All Problems](../README.md)
+[Back to All Problems](../README.md)  
+[Back to All Problems](../README.md) 

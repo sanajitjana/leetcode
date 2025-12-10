@@ -128,3 +128,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n + m) where n = length of version1, m = length of version2 (we parse both strings fully once)
 - **Space Complexity:** O(n + m) for storing split parts in two lists
+  
+[Back to All Problems](../README.md) 

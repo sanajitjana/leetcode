@@ -146,4 +146,5 @@ class Solution {
 
 **Time Complexity:** O(n) - We iterate through the array twice.
 
-**Space Complexity:** O(n) - We use an array of size n+1 to store frequencies.
+**Space Complexity:** O(n) - We use an array of size n+1 to store frequencies.  
+[Back to All Problems](../README.md) 

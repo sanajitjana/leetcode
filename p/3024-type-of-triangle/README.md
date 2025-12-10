@@ -239,3 +239,5 @@ class Solution {
 - Equilateral triangles are a special case of isosceles triangles
 - The order of checking matters for correct classification
 - Triangle inequality must be checked before side equality
+  
+[Back to All Problems](../README.md) 

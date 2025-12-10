@@ -86,4 +86,5 @@ class Solution {
 
 ## Time and Space Complexity
 - **Time Complexity:** O(n) - each token is processed once.
-- **Space Complexity:** O(n) - stack can hold up to n elements in the worst case.
+- **Space Complexity:** O(n) - stack can hold up to n elements in the worst case.  
+[Back to All Problems](../README.md) 

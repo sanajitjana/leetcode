@@ -68,3 +68,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n) - one pass to build the set, plus at most log₂(1000) ≈ 10 iterations of the loop
 - **Space Complexity:** O(n) - hashset stores up to n elements from the input array
+  
+[Back to All Problems](../README.md) 

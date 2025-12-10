@@ -72,3 +72,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n) — iterate through the string once
 - **Space Complexity:** O(1) — only a few boolean flags used
+  
+[Back to All Problems](../README.md) 

@@ -82,4 +82,5 @@ class Solution {
 
 ## Time and Space Complexity
 - **Time Complexity:** O(n) - Single pass through the array
-- **Space Complexity:** O(1) - Constant extra space
+- **Space Complexity:** O(1) - Constant extra space  
+[Back to All Problems](../README.md) 

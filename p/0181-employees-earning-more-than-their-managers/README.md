@@ -53,3 +53,5 @@ WHERE e.salary > m.salary;
 ## Time and Space Complexity
 - **Time Complexity:** O(n) - single pass through the table to perform the join and filtering
 - **Space Complexity:** O(n) - temporary space for the join result before filtering
+  
+[Back to All Problems](../README.md) 

@@ -87,3 +87,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n) — One pass to count frequencies, one pass to build groups, one pass to find the best group.
 - **Space Complexity:** O(n) — Storing frequency map and groups.
+  
+[Back to All Problems](../README.md) 

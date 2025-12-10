@@ -153,3 +153,5 @@ class SolutionOptimized {
 **Triangle Inequality Theorem:** For three lengths a ≤ b ≤ c to form a triangle, we need a + b > c.
 
 **Greedy Strategy:** The optimal triangle will always be among the largest possible numbers that satisfy the triangle inequality.
+  
+[Back to All Problems](../README.md) 

@@ -138,3 +138,5 @@ class Solution {
 
 **Time Complexity:** O(1) - mathematical operations
 **Space Complexity:** O(1) - constant space
+  
+[Back to All Problems](../README.md) 

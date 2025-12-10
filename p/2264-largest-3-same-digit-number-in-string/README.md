@@ -197,3 +197,5 @@ class Solution {
 | **Approach 3** | O(n) | O(1) | High | Best |
 
 **Recommendation:** Approach 2 is the most efficient and readable solution for this problem.
+  
+[Back to All Problems](../README.md) 

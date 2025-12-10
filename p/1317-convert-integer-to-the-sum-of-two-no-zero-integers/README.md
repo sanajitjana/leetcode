@@ -56,3 +56,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n * log(n)) — In the worst case, we iterate up to n and for each number, checking if it contains zero takes O(log n) time (based on the number of digits).
 - **Space Complexity:** O(1) — We only use a constant amount of extra space for variables.
+  
+[Back to All Problems](../README.md) 

@@ -76,3 +76,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(1) - simple arithmetic operation
 - **Space Complexity:** O(1) - no extra space used
+  
+[Back to All Problems](../README.md) 

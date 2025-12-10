@@ -139,3 +139,5 @@ Example Input: `nums = [3,2,3]`
 - **Approach 4 (Voting Algorithm):** O(n) time, O(1) space
 
 **Recommendation:** Use Approach 4 (Boyer-Moore Voting Algorithm) as it's the most optimal solution with linear time and constant space complexity.
+  
+[Back to All Problems](../README.md) 

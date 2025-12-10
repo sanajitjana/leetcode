@@ -54,4 +54,5 @@ class Solution {
 
 ## Time and Space Complexity
 - **Time Complexity:** O(n³) - three nested loops each up to n
-- **Space Complexity:** O(1) - constant extra space
+- **Space Complexity:** O(1) - constant extra space  
+[Back to All Problems](../README.md) 

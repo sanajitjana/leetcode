@@ -233,3 +233,5 @@ class Solution {
 - Number decomposition
 - Educational programming problems
 - Digit manipulation exercises
+  
+[Back to All Problems](../README.md) 

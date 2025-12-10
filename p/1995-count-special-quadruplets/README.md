@@ -65,3 +65,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n^4) in the worst case (since we check all quadruplets). With n <= 50, this is acceptable (50^4 = 6.25 million iterations).
 - **Space Complexity:** O(1) since we only use a counter.
+  
+[Back to All Problems](../README.md) 

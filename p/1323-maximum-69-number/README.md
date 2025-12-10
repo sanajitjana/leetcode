@@ -147,3 +147,5 @@ class Solution {
 
 **Time Complexity:** O(n) - string operations
 **Space Complexity:** O(n) - for string creation
+  
+[Back to All Problems](../README.md) 

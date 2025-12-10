@@ -114,3 +114,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n) for optimized approach, O(n^3) for brute force
 - **Space Complexity:** O(1) for both approaches
+  
+[Back to All Problems](../README.md) 

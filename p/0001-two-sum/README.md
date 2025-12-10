@@ -53,3 +53,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n) - single pass through the array
 - **Space Complexity:** O(n) - hashmap stores up to n elements in worst case
+  
+[Back to All Problems](../README.md) 

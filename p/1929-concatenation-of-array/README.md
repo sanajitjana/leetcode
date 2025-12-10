@@ -138,4 +138,5 @@ The problem asks for the concatenation of an array with itself. All solutions fo
 
 **Solution 4** leverages Java's built-in `System.arraycopy()` method, which is implemented natively and can be highly optimized by the JVM.
 
-All solutions have the same time complexity O(n) and space complexity O(n), but Solution 3 is generally preferred for its simplicity and efficiency.
+All solutions have the same time complexity O(n) and space complexity O(n), but Solution 3 is generally preferred for its simplicity and efficiency.  
+[Back to All Problems](../README.md) 

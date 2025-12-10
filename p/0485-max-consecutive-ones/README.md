@@ -60,4 +60,5 @@ class Solution {
 
 ## Time and Space Complexity
 - **Time Complexity:** O(n) - single pass through the array
-- **Space Complexity:** O(1) - constant space usage with just two integer variables
+- **Space Complexity:** O(1) - constant space usage with just two integer variables  
+[Back to All Problems](../README.md) 

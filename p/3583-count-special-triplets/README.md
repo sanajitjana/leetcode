@@ -107,4 +107,5 @@ class Solution {
 
 ### Time and Space Complexity (Approach 2)
 - **Time Complexity:** O(n) - single pass through the array with O(1) map operations on average
-- **Space Complexity:** O(n) - hashmaps store up to n elements in worst case
+- **Space Complexity:** O(n) - hashmaps store up to n elements in worst case  
+[Back to All Problems](../README.md) 

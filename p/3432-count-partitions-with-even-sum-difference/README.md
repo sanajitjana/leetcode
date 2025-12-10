@@ -114,4 +114,5 @@ class Solution {
 
 ## Time and Space Complexity 2
 - **Time Complexity:** O(n) - single pass to compute total sum, then single pass for partitions.
-- **Space Complexity:** O(1) - only a few variables used.
+- **Space Complexity:** O(1) - only a few variables used.  
+[Back to All Problems](../README.md) 

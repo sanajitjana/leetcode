@@ -82,3 +82,5 @@ public class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n) where n is the length of the string
 - **Space Complexity:** O(1) - constant space used
+  
+[Back to All Problems](../README.md) 

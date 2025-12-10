@@ -118,3 +118,5 @@ class Spreadsheet {
   - setCell, resetCell: O(1) average (hash map put/get)
   - getValue: O(k) where k = number of terms in the formula
 - **Space Complexity:** O(n) for storing n cells in the map
+  
+[Back to All Problems](../README.md) 

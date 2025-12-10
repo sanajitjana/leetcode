@@ -134,3 +134,5 @@ class SolutionOptimized {
 ## Time and Space Complexity
 - **Time Complexity:** O(n^2) for optimized approach (sorting O(n log n) negligible)
 - **Space Complexity:** O(1) - only using constant extra space
+  
+[Back to All Problems](../README.md) 

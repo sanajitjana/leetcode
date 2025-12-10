@@ -128,3 +128,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n log n) for both approaches (O(n) to extract vowels, O(k log k) to sort, O(n) to rebuild)
 - **Space Complexity:** O(n) for both approaches (storing extracted vowels and result string)
+  
+[Back to All Problems](../README.md) 

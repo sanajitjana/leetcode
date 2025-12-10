@@ -106,3 +106,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n × u) where n = number of languages, u = number of unique problematic users
 - **Space Complexity:** O(u + p) where u = unique problematic users, p = problematic friendship pairs
+  
+[Back to All Problems](../README.md) 

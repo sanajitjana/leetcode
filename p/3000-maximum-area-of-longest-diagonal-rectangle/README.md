@@ -62,3 +62,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n) — one pass through all rectangles
 - **Space Complexity:** O(1) — only a few variables stored
+  
+[Back to All Problems](../README.md) 

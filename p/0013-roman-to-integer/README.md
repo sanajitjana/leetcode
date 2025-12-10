@@ -86,4 +86,5 @@ class Solution {
 
 ## Time and Space Complexity
 - **Time Complexity:** O(n) - single pass through the string where n is the length of s
-- **Space Complexity:** O(1) - constant space for the hashmap with fixed size (7 entries)
+- **Space Complexity:** O(1) - constant space for the hashmap with fixed size (7 entries)  
+[Back to All Problems](../README.md) 

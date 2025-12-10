@@ -77,3 +77,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n) - single scan to compute max and min of nums
 - **Space Complexity:** O(1) - only a few variables used
+  
+[Back to All Problems](../README.md) 

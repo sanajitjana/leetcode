@@ -173,3 +173,5 @@ class Solution {
 ## Time and Space Complexity (Binary Search)
 - **Time Complexity:** O((n + m) * log m) - O(m log m) for sorting potions + O(n log m) for binary searches
 - **Space Complexity:** O(1) - excluding the output array, only using constant extra space
+  
+[Back to All Problems](../README.md) 

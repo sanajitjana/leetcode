@@ -67,3 +67,5 @@ class Solution {
 - **Time Complexity:** O(numBottles) in the worst case, as we simulate exchanges until bottles run out.  
 - **Space Complexity:** O(1), using only a few variables.  
 
+  
+[Back to All Problems](../README.md) 

@@ -122,3 +122,5 @@ public class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(N + Q * L) where N = wordlist length, Q = queries length, L = average word length
 - **Space Complexity:** O(N * L) for storing words in HashSet and maps
+  
+[Back to All Problems](../README.md) 

@@ -97,3 +97,5 @@ class Solution {
 ### Time and Space Complexity
 - **Time Complexity:** O(n)
 - **Space Complexity:** O(n) for the HashMap
+  
+[Back to All Problems](../README.md) 

@@ -135,3 +135,5 @@ class Solution {
 ## Time and Space Complexity (Approach 2)
 - **Time Complexity:** O(n) where n = length of string
 - **Space Complexity:** O(k) where k = number of distinct characters (at most 26 for lowercase English letters)
+  
+[Back to All Problems](../README.md) 

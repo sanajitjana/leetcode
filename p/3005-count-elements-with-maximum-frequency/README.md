@@ -170,3 +170,5 @@ class SolutionArray {
 1. **Two-pass algorithm:** First pass to find max frequency, second pass to sum
 2. **Single-pass with tracking:** Track max frequency and sum simultaneously
 3. **Sorting approach:** Sort and count consecutive elements
+  
+[Back to All Problems](../README.md) 

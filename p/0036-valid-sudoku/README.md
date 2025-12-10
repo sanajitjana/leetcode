@@ -123,3 +123,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(1) - We scan each cell at most 3 times (row, column, box validation), board size is fixed at 9x9
 - **Space Complexity:** O(1) - Extra space comes from HashSets used in validation, but board size is fixed so memory usage is constant
+  
+[Back to All Problems](../README.md) 

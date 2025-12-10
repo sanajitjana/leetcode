@@ -71,3 +71,5 @@ public class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n + m) — n = length of `text`, m = length of `brokenLetters`
 - **Space Complexity:** O(1) — Fixed array of size 26 is used for tracking broken letters.
+  
+[Back to All Problems](../README.md) 

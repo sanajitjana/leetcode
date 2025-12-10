@@ -178,3 +178,5 @@ class Solution {
 
 **Time Complexity:** O(N × L) - with potential parallel speedup
 **Space Complexity:** O(1) - excluding output list
+  
+[Back to All Problems](../README.md) 

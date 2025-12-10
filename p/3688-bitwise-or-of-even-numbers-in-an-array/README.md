@@ -197,3 +197,5 @@ class Solution {
 - All even numbers: return OR of all numbers
 - Mixed numbers: return OR of even numbers only
 - Empty array: return 0 (though constraints say n >= 1)
+  
+[Back to All Problems](../README.md) 

@@ -164,3 +164,5 @@ class Solution {
 **Alternative Mathematical Approaches:**
 1. **Arithmetic Sequence:** `[0, 1, 2, ..., n-1]` transformed to sum to 0
 2. **Random Selection:** Any n-1 numbers and their negative sum
+  
+[Back to All Problems](../README.md) 

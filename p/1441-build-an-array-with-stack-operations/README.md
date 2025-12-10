@@ -115,4 +115,5 @@ class Solution {
 
 ## Time and Space Complexity
 - **Time Complexity:** O(n) - iterate through numbers up to n
-- **Space Complexity:** O(1) - excluding the output list, only using constant extra space
+- **Space Complexity:** O(1) - excluding the output list, only using constant extra space  
+[Back to All Problems](../README.md) 

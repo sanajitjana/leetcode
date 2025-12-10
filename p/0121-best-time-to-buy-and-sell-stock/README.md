@@ -87,3 +87,5 @@ class Solution {
 ### Time and Space Complexity
 - Time Complexity: O(n)
 - Space Complexity: O(1)
+  
+[Back to All Problems](../README.md) 

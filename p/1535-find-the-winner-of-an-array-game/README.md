@@ -75,3 +75,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n) - single pass through the array in worst case
 - **Space Complexity:** O(1) - only using constant extra space
+  
+[Back to All Problems](../README.md) 

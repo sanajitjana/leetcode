@@ -258,3 +258,5 @@ class Solution {
 - No complex data structures needed
 - Works well for small to medium arrays (n ≤ 100)
 - The distribution creates natural ordering within each list
+  
+[Back to All Problems](../README.md) 

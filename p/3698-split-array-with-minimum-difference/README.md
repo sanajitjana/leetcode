@@ -118,3 +118,5 @@ class Solution {
 ## Time and Space Complexity
 - **Time Complexity:** O(n) - one pass for prefix sums and checks, one pass for suffix sums and checks, one pass for evaluating splits
 - **Space Complexity:** O(n) - arrays leftSum, rightSum, leftValid, rightValid each take O(n)
+  
+[Back to All Problems](../README.md) 

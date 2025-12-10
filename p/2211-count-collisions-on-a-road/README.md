@@ -78,4 +78,5 @@ class Solution {
 
 ## Time and Space Complexity
 - **Time Complexity:** O(n) - three passes through the string
-- **Space Complexity:** O(1) - no extra space used
+- **Space Complexity:** O(1) - no extra space used  
+[Back to All Problems](../README.md) 
