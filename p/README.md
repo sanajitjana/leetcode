@@ -56,6 +56,8 @@
 
 1796: Second Largest Digit in a String - [`1796-second-largest-digit-in-a-string/`](1796-second-largest-digit-in-a-string/)
 
+1805: Number of Different Integers in a String - [`1805-number-of-different-integers-in-a-string/`](1805-number-of-different-integers-in-a-string/)
+
 1925: Count Square Sum Triples - [`1925-count-square-sum-triples/`](1925-count-square-sum-triples/)
 
 1929: Concatenation of Array - [`1929-concatenation-of-array/`](1929-concatenation-of-array/)
