@@ -52,6 +52,8 @@
 
 1535: Find the Winner of an Array Game - [`1535-find-the-winner-of-an-array-game/`](1535-find-the-winner-of-an-array-game/)
 
+1716: Calculate Money in Leetcode Bank - [`1716-calculate-money-in-leetcode-bank/`](1716-calculate-money-in-leetcode-bank/)
+
 1733: Minimum Number of People to Teach - [`1733-minimum-number-of-people-to-teach/`](1733-minimum-number-of-people-to-teach/)
 
 1796: Second Largest Digit in a String - [`1796-second-largest-digit-in-a-string/`](1796-second-largest-digit-in-a-string/)
