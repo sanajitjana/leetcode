@@ -32,6 +32,8 @@
 
 0830: Positions of Large Groups - [`0830-positions-of-large-groups/`](0830-positions-of-large-groups/)
 
+0944: Delete Columns to Make Sorted - [`0944-delete-columns-to-make-sorted/`](0944-delete-columns-to-make-sorted/)
+
 0966: Vowel Spellchecker - [`0966-vowel-spellchecker/`](0966-vowel-spellchecker/)
 
 0976: Largest Perimeter Triangle - [`0976-largest-perimeter-triangle/`](0976-largest-perimeter-triangle/)
