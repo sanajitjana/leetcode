@@ -104,6 +104,8 @@
 
 3074: Apple Redistribution into Boxes - [`3074-apple-redistribution-into-boxes/`](3074-apple-redistribution-into-boxes/)
 
+3075: Maximize Happiness of Selected Children - [`3075-maximize-happiness-of-selected-children/`](3075-maximize-happiness-of-selected-children/)
+
 3190: Find Minimum Operations to Make All Elements Divisible by Three - [`3190-find-minimum-operations-to-make-all-elements-divisible-by-three/`](3190-find-minimum-operations-to-make-all-elements-divisible-by-three/)
 
 3227: Vowels Game in a String - [`3227-vowels-game-in-a-string/`](3227-vowels-game-in-a-string/)
